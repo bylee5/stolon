@@ -1,3 +1,18 @@
+## AgensGraph HA 구성을 테스트하기 위해 stolon을 사용하였습니다.
+
+이와 관련된 정보는 다음과 같습니다.
+
+Agengraph dockerfile: examples/docker_agensgraph
+
+kubernetes+postgresql: examples/kubernetes+postgresql
+
+kubernetes+agensgraph: examples/kubernetes+agensgraph
+
+작업한 branch는 agensgraph입니다.
+
+git checkout agensgraph 
+
+
 # stolon - PostgreSQL cloud native High Availability
 
 [![Build Status](https://semaphoreci.com/api/v1/projects/fb01aecd-c3d5-407b-a157-7d5365e9e4b6/565617/badge.svg)](https://semaphoreci.com/sorintlab/stolon)
